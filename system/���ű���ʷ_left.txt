@@ -1,0 +1,6 @@
+    	<div style="width:580px; margin:0 auto; padding-top:20px; font-family:simsun">
+	    <div class="top-page">$$$$</div><!--页码-->
+            <div class="line-top"></div><!--橫線-->
+            <div class="header-top"><span style="font-size:20px; color:#999; font-weight:bold; letter-spacing:2px">澳门</span><br />编年史</div>
+            <div class="header-right">第一卷&nbsp;&nbsp;明中后期（1494—1644）</div>
+            <div class="main"><!--書本主體部份-->

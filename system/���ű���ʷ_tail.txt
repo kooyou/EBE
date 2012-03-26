@@ -1,0 +1,5 @@
+        <!--End-->
+    </div>
+    <div style="background:#FFF url(images/pic_show_page_bottom_bg.gif) no-repeat; border-left:#F7F7F7 solid 1px; width:706px; overflow:hidden; height:4px;"></div>
+</body>
+</html>

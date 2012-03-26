@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Class Name="CMainFrame" Collapsed="true">
+    <Position X="16" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAEAADAQAJIABQQIgBSCBAEoDCIAooQEAIQAIAAAZQ=</HashCode>
+      <FileName>MainFrm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CHtmlViewCtrl" Collapsed="true">
+    <Position X="23" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAgAhBAAAgAABAAggAAEAAAAAAAAAA=</HashCode>
+      <FileName>HtmlViewCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CHtmlProperty" Collapsed="true">
+    <Position X="21.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABCAQCECggAAAAAQAAAAAAAJAAAQBCIAAQAABAAA=</HashCode>
+      <FileName>HtmlProperty.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAhBAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>EBE.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCalendarBar" Collapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAAAAAAAEAAAEAAgBAAAAAACAAAMEAAAAAAAAAAAg=</HashCode>
+      <FileName>CalendarBar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChildFrame" Collapsed="true">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAQIQAAAAAAAAgBAAAAAgBAAAkAAEAAAAAUIAAA=</HashCode>
+      <FileName>ChildFrm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCSSListCtrl" Collapsed="true">
+    <Position X="19.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAIAAAAAAkBACAAAABBAAUAAMAAAAAAAAQA=</HashCode>
+      <FileName>CSSListCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEBEApp" Collapsed="true">
+    <Position X="21.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAEgAgBBAEAAQAAAAAQDAAARAAACgAA=</HashCode>
+      <FileName>EBE.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEBECntrItem" Collapsed="true">
+    <Position X="23" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAEAAAAAAAAAAAAABCAAgAAEAoAAAAAAEA=</HashCode>
+      <FileName>CntrItem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEBEDoc" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAQAAAAAAAAgBAAAAAQDAgAgQAEAAQAAAAAAA=</HashCode>
+      <FileName>EBEDoc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFileManage" Collapsed="true">
+    <Position X="16" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAgAAAAAAIAAAAAAAAAAAAAAAAEAAAAAAAACAA=</HashCode>
+      <FileName>FileManage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFormat" Collapsed="true">
+    <Position X="17.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAEAgAAAQCAAAAAAAAAAAAAAAAAEAAAAAAAAQAA=</HashCode>
+      <FileName>Format.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGBtoBig5" Collapsed="true">
+    <Position X="19.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>GBtoBig5.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CItemEditCtrl" Collapsed="true">
+    <Position X="14.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAUAAAAAAAAhBIAAAAABAAAAAAEAIAAAAAAAA=</HashCode>
+      <FileName>ItemEditCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMainRichEditView" Collapsed="true">
+    <Position X="17.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAghGBAQRIBAJEQIEilAAAhAgBIAAkAAECwFBkIYEAE=</HashCode>
+      <FileName>EBEView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMisprintAddDlg" Collapsed="true">
+    <Position X="19.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAhBAAQABABAAABAAEAAAEACIAAA=</HashCode>
+      <FileName>MisprintAddDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMisprintManageDlg" Collapsed="true">
+    <Position X="21.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAQAAABAAAAhlEgBAAABAAAAAAEACAAoAAAAE=</HashCode>
+      <FileName>MisprintManageDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMisprintSetDlg" Collapsed="true">
+    <Position X="23" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAASAAEAAAAQhBAAAAACBAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>MisprintSetDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CModelManageDlg" Collapsed="true">
+    <Position X="14.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAABAQAAQAAAAQhBAAAAAABABAAAAEAAEAAAAAQA=</HashCode>
+      <FileName>ModelManageDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COutlookBar" Collapsed="true">
+    <Position X="16" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>MainFrm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPictureProperty" Collapsed="true">
+    <Position X="17.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAgAAAAAAQEQAAAAAABABEQAAAAAAAACIA=</HashCode>
+      <FileName>PictureProperty.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPropertiesToolBar" Collapsed="true">
+    <Position X="19.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>PropertiesWnd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPropertiesWnd" Collapsed="true">
+    <Position X="21.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAACAAAAFkAAQCAIgRAmAAACCAAAAUAAJAACBQAAAA=</HashCode>
+      <FileName>PropertiesWnd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPropertyManage" Collapsed="true">
+    <Position X="23" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAERAASAEAAAAgAAAAAAAAAACAAAgIQAAABGAIAAggA=</HashCode>
+      <FileName>PropertyManage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CReplaceListCtrl" Collapsed="true">
+    <Position X="14.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgQAAAAAAAAghABAAABBBAAEAAEAKBAAAAEAA=</HashCode>
+      <FileName>ReplaceListCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CReplaceSetDlg" Collapsed="true">
+    <Position X="16" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAIAAEQAAAAAAAAhBAAAAAABAAEAAAEAgAAAAAACA=</HashCode>
+      <FileName>ReplaceSetDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSymbolReplaceSetDlg" Collapsed="true">
+    <Position X="17.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAwAAIAAAIAhBABgAAABAAAAABEAAAAAAEAgA=</HashCode>
+      <FileName>SymbolReplaceSetDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUsefulStringList" Collapsed="true">
+    <Position X="19.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAIAAAqhABAAABBhAAEAAEAKAAAAAAAA=</HashCode>
+      <FileName>UsefulStringList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HtmlFileGeneration" Collapsed="true">
+    <Position X="21.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAg6BQDEIAAAABABggAAIBkIAASQAAIYEIQAYEgwAEQ=</HashCode>
+      <FileName>HtmlFileGeneration.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LineStyleManage" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAgIAQAEAAAAAAAAAAQAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>LineStyleManage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MisprintManage" Collapsed="true">
+    <Position X="23" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAEAAABAEAAAAAgAAAAAAAAABCAABAAAAAAACA=</HashCode>
+      <FileName>MisprintManage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModelManage" Collapsed="true">
+    <Position X="14.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABIAABBAAgAAAQAAAAAAAAACQAAABAQA=</HashCode>
+      <FileName>ModelManage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NoteManage" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAEAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NoteManage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NoteNumStyleManage" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>NoteNumStyleManage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OutputHtmlManage" Collapsed="true">
+    <Position X="16" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAggAAAABAAAAAAAAAAAAAIAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>OutputHtmlManage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OutputManage" Collapsed="true">
+    <Position X="17.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAIAAAAAgAAAA=</HashCode>
+      <FileName>OutputManage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PictureStyleManage" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACACAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PictureStyleManage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SectionStyleManage" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAIAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SectionStyleManage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StyleManageSuper" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAACAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>StyleManageSuper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TableManage" Collapsed="true">
+    <Position X="19.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAEAgBACCAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TableManage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TableStyleManage" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAACAAAIAAA=</HashCode>
+      <FileName>TableStyleManage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinTxtTranslation" Collapsed="true">
+    <Position X="21.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAFAAAEAABAQAIAIgAgABAABAACCAEABAAAAAAA=</HashCode>
+      <FileName>WinTxtTranslation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

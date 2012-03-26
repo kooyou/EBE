@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>澳門编年史&nbsp;&nbsp;第一卷&nbsp;&nbsp;明中后期</title>
+<link rel="stylesheet" type="text/css" media="all" href="css/reset.css" />
+<style>
+.top-page{float:left;width:40px;padding-top:20px; }
+.line-top{border-left:#000 solid 1px;height:40px;float:left;margin-top:10px;}
+.main{height:930px;text-align:justify;text-justify:inter-ideograph;font-size:18px;line-height:160%;padding:20px 0;clear:both;}
+.t1{text-indent:2em;padding:15px 0 15px 0;}
+.b-notes{font-size:12px;padding:10px 0 20px 0px;text-align:justify;text-justify:inter-ideograph;line-height:150%;}
+.line{width:400px;border-top:#000 dotted 1px;margin-top:20px;margin:auto;}
+.header{border-bottom:#000 solid 1px;width:560px;text-align:center;height:36px;font-weight:bold;padding-top:30px;}
+.header-top{height:20px;float:left;padding-left:15px;font-size:14px;width:65px;color:#999;font-weight:bold;line-height:20px;padding-top:10px;}
+.header-right{float:left;font-size:12px;width:350px;height:40px;padding-top:25px;color:#999;}
+.super{vertical-align:super;font-size:9px;}
+.title{font-size:20px;font-weight:bold;}
+.title2{font-size:18px;font-weight:bold;}
+.title3{font-size:18px;text-indent:2em;font-family:"標楷體";}
+.special{text-indent:2em;font-size:17px;padding:16px 0;font-family:"標楷體";line-height:150%;}
+</style>
+</head>
+
+<body>
+    <div style="background:#FFF url(images/pic_show_book_page_bg.gif) no-repeat right top; border-left:#F7F7F7 solid 1px; border-top:#F7F7F7 solid 1px; width:706px; height:1100px; overflow:hidden;">
+    <!--Start-->
